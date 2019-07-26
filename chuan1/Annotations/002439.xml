@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002439.jpg</filename>
+	<source>
+		<database>My Database</database>
+		<annotation>VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>zyk</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>043.Yellow_bellied_Flycatcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109.0</xmin>
+			<ymin>135.0</ymin>
+			<xmax>356.0</xmax>
+			<ymax>392.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

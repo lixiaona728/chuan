@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007552.jpg</filename>
+	<source>
+		<database>My Database</database>
+		<annotation>VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>zyk</name>
+	</owner>
+	<size>
+		<width>356</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>129.Song_Sparrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51.0</xmin>
+			<ymin>70.0</ymin>
+			<xmax>262.0</xmax>
+			<ymax>286.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

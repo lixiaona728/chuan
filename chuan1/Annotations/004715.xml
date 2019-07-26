@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004715.jpg</filename>
+	<source>
+		<database>My Database</database>
+		<annotation>VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>zyk</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>081.Pied_Kingfisher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193.0</xmin>
+			<ymin>50.0</ymin>
+			<xmax>406.0</xmax>
+			<ymax>316.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

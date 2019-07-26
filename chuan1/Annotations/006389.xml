@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006389.jpg</filename>
+	<source>
+		<database>My Database</database>
+		<annotation>VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>zyk</name>
+	</owner>
+	<size>
+		<width>393</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>110.Geococcyx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20.0</xmin>
+			<ymin>58.0</ymin>
+			<xmax>269.0</xmax>
+			<ymax>487.0</ymax>
+		</bndbox>
+	</object>
+</annotation>
